@@ -1,0 +1,5 @@
+1）Activity & Intent
+2)Adapter & ListView
+3）JSON data solved with GSON(especially @serializedName)
+4)LitePal & SharedPreferences
+5)FrameLayout&Fragment
